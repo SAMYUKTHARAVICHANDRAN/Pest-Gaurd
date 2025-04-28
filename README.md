@@ -1,3 +1,4 @@
+# Pest Gaurd
 PestGuard is an innovative, student-developed web platform designed to help users identify pests, explore inbuilt eco-friendly solutions, and stay updated with the latest agriculture and pest control news — all with the support of an integrated chatbot assistant.
 Built as part of our BTech Computer Science Engineering journey, PestGuard combines technology and real-world problem-solving for smarter pest management.
 
